@@ -23,4 +23,5 @@ This repository hosts a Jupyter notebook that highlights the application of Pyth
 4. Matplotlib and Seaborn: For creating static, interactive, and animated visualizations within Python notebooks.
 
 **Objective:**
+
 The goal of this project is to demonstrate the powerful capabilities of Python in the realm of GIS through the use of ArcGIS tools, enhancing the skills of students and professionals in geospatial data manipulation, analysis, and visualization.
